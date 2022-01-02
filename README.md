@@ -14,6 +14,13 @@ This batch file allows the user to enter a video URL and then proceeds to list a
 ## ytdlCustom.bat
 This batch file allows for very advanced usage by allowing you to manually enter multiple command-line arguments for `youtube-dl`.
 
+## ytdl_AudioOnly.bat
+This batch file allows the user to enter a video URL and then only the audio channel is downloaded.
+
+## ytdl_HQ-MP4.bat
+
+This batch file allows the user to enter a video URL and then the highest quality video will be downloaded along with the audio.
+
 ## ytdlInfo.bat
 This batch file lists basic information about your current `youtube-dl` Windows .exe release.
 
